@@ -21,4 +21,8 @@ HEADERS += \
     orderedarraylist.h \
     orderedlinkedlist.h \
     queue.h \
-    stack.h
+    stack.h \
+    dcirclelist.h \
+    dictionary.h \
+    kvpair.h \
+    UnsortedArrayDictionary.h
